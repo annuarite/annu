@@ -5,8 +5,8 @@ Installing python
 ## day two
 learning python
 and data types
-##day three 
+## day three 
 building a simple calculator
-##day four
+## day four
 calc.py
 strings.py
