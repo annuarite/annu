@@ -28,3 +28,5 @@ print(strg)
 subject=["math","chem","bio"]
 subject[2]="physics"
 print(subject)
+
+subjets = ("math",)

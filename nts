@@ -1,0 +1,6 @@
+#lists = []
+#tuples = ()
+#sets = {}
+temp = "educative"
+string1 = "i like %s and %s" % ("python","temp")
+print(string1)
